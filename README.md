@@ -26,8 +26,6 @@ ProCSAD addresses the challenges of long-range dependencies and complex noise in
   - [2. Data Preparation](#2-data-preparation)
   - [3. Training & Evaluation](#3-training--evaluation)
 - [Main Results](#-main-results)
-- [Citation](#-citation)
-- [Acknowledgements](#-acknowledgements)
 
 ---
 
