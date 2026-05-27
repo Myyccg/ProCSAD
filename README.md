@@ -1,9 +1,9 @@
-# ProCSAD: Prototype-Constrained Deep SVDD for Time-Frequency Domain Time Series Anomaly Detection
+# ProCSAD: Prototype Constraint based Deep SVDD for Time-Frequency Domain Time Series Anomaly Detection
 
 > **ProCSAD** is a robust, unified framework for multivariate time series anomaly detection. By integrating selective state-space modeling with prototype-based hypersphere learning, it effectively captures both complex temporal dynamics and inter-variate dependencies in the time-frequency domain.
 
 <p align="center">
-  <img src="./figures/framework_overview.png" width="800" alt="ProCSAD Framework Overview" />
+  <img src="./figures/framework_flowchart.png" width="800" alt="ProCSAD Framework Flowchart" />
 </p>
 
 ---
